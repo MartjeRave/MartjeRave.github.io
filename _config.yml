@@ -14,14 +14,14 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 lang: en-US
-title: "Giacomo De Nicola"
-masthead_title: "Giacomo De Nicola"
-description: "Personal homepage of Giacomo De Nicola"
+title: "Martje Rave"
+masthead_title: "Martje Rave"
+description: "Personal homepage of Martje Rave"
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: https://gdenicola.github.io
-twitter_username: GiacomoDeNicola
-github_username: gdenicola
-linkedin_username: giacomodenicola
+url: https://martjerave.github.io
+twitter_username: MartjeRave
+github_username: MartjeRave
+linkedin_username: Martje Rave
 
 logo: "/images/logo.jpg"
 search: false #, false (default)
@@ -64,26 +64,26 @@ social:
 
 # Site Author
 author: 
-  name: "Giacomo De Nicola"
+  name: "Martje Rave"
   avatar: /assets/images/logo.png
   bio: "PhD student in Statistics at LMU Munich working on statistical network analysis"
   location: "Munich, Germany"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/GiacomoDeNicola"
+      url: "https://twitter.com/MartjeRave"
     - label: "Github"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/gdenicola"
+      url: "https://github.com/MartjeRave"
     - label: "LinkedIn"
       icon: "fab fa-linkedin-in"
-      url: "https://www.linkedin.com/in/giacomodenicola"
+      url: "https://www.linkedin.com/in/martje-rave-822b5789/"
     - label: "University page"
       icon: "fas fa-fw fa-link"
-      url: "https://www.en.wisostat.statistik.uni-muenchen.de/personen/doktoranden/denicola/index.html"
+      url: "https://www.en.wisostat.statistik.uni-muenchen.de/personen/doktoranden/rave/index.html"
     - label: "Google Scholar"
       icon: "fab fa fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=m0vP4pYAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=Y-aNHUEAAAAJ&hl=en"
 
 # Reading Files
 include:
