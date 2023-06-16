@@ -58,8 +58,8 @@ social:
   type: # Person or Organization (defaults to Person)
   name: # If the user or organization name differs from the site's name
   links:
-    - "https://https://www.linkedin.com/in/giacomodenicola"
-    - "https://github.com/gdenicola"
+    - "linkedin.com/in/martje-rave-822b5789"
+    - "https://github.com/MartjeRave"
   # An array of links to social media profiles
 
 # Site Author
