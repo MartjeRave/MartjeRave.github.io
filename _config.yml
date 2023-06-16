@@ -14,14 +14,14 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 lang: en-US
-title: "Giacomo De Nicola"
-masthead_title: "Giacomo De Nicola"
-description: "Personal homepage of Giacomo De Nicola"
+title: "Martje Rave"
+masthead_title: "Martje Rave"
+description: "Personal homepage of Martje Rave"
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: https://gdenicola.github.io
-twitter_username: GiacomoDeNicola
-github_username: gdenicola
-linkedin_username: giacomodenicola
+url: https://martjerave.github.io
+twitter_username: MartjeRave
+github_username: MartjeRave
+linkedin_username: Martje Rave
 
 logo: "/images/logo.jpg"
 search: false #, false (default)
