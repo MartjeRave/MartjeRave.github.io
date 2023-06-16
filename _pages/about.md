@@ -11,10 +11,12 @@ classes: wide
 author_profile: true  
 ---
 
-Hello, World! 
+Hello there! 
 
-My name is Giacomo De Nicola, and I am a PhD candidate at the Department of Statistics of LMU Munich under the supervision of Göran Kauermann. I'm currently working on the statistical analysis of complex networks, with a focus on latent variable models.<br>
+My name is Giacomo De Nicola, I am a PhD candidate at the Institute of Statistics at the University of Munich. I hold a position at Göran Kauermann's chair of applied statistics in social sciences, economics and business, where I both research and teach statistics. <br>
 
-My research mainly revolves around analyzing networks to answer questions posed within substantive sciences, such as economics, sociology and political science, through use of novel statistical modeling techniques with an interdisciplinary outlook. In addition to that, I am an active member of [CODAG](https://www.covid19.statistik.uni-muenchen.de/index.html) (the COVID-19 Data Analysis Group), where I am doing research on several topics related to the COVID-19 spreading process and the mortality associated with it. I am also a member of the German Statistical Society and a fellow of the [LMU Open Science Center](https://www.osc.uni-muenchen.de/members/osis/index.html), where we foster open and reproducible research.<br>
+My research interests include exploratory and predictive analysis, primarily in areal data analysis. The application of which is currently COVID-19.  We have been able to help people's understanding of the pandemic with weekly reports on the pandemic. For example, I have been able to help the LGL (The health department of the Bavarian state) in planning ICU occupancy in Bavaria. More recently, we have been able to use some clever statistics to impute missing information on incoming ICU patients and thereby improve the understanding of the severity of the disease. <br>
+We are extending these methods to learn more about teh pandemic, e.g. the ICU length of stay over time. The information we impute has previously not been available to the public. <br>
+I also teach regression methodology at Bachelor's as well as Master's level, primarily using R. Further, I explore Open Science and Areal Data Analysis in seminars with my students.<br>
 
-If you want to get in touch, you can contact me on [Twitter](https://twitter.com/GiacomoDeNicola) or by [email](mailto:giacomo.denicola@stat.uni-muenchen.de). 
+If you want to get in touch, you can contact me on [Twitter](https://twitter.com/MartjeRave) or by [email](mailto:martje.rave@stat.uni-muenchen.de). 
