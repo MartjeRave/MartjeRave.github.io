@@ -11,79 +11,58 @@ classes: wide
 author_profile: true  
 ---
 
-View my full CV <a href="/assets/pdf/cv_giacomo_de_nicola.pdf" target="_blank">here</a>.
+View my full CV <a href="/assets/pdf/CV_Martje_Rave.pdf" target="_blank">here</a>.
 ---------------
 
 
 Education
 ---------------
 
-__2019 - today__<br/>
+__2020 - today__<br/>
 LMU Munich, Germany<br/>
 PhD student
 
-__2015 - 2019__<br/>
-Bocconi University, Milan, Italy<br/>
-MSc in Economic and Social Sciences
+__2015 - 2020__<br/>
+University of Glasgow, Glasgow, Scotland<br/>
+MSci in Statistics
 
 __2012 - 2015__<br/>
-University of Florence, Italy<br/>
-BSc in Statistics
+University of Southern Denmark, Denmark<br/>
+BSc in Economics and Business Administration
 
-__2007 - 2012__<br/>
-High School Diploma, Liceo Scientifico U. Dini, Pisa, Italy
+__2010 - 2012__<br/>
+Tunbridge Wells Grammar School for Boys, Tunbridge Wells, UK
+
+__2005 - 2010__<br/>
+Bernstorff Gymnasium Satrup, Mittelangeln, Germany
+
 
 
 Teaching
 ---------------
 __2022/2023__
 <ul>
-<li>Inferenzstatistik 1 (Statistical Inference 1, exercise sessions)</li>
-<li>Statistical Reasoning and Inference 1 (exercise sessions)</li>
+<li>Statistical Modelling (exercise sessions)</li>
+<li>Generalized Linear Models (exercise sessions)</li>
+<li>Structured Seminar: Introduction to statistical analysis of areal data </li>
 <li>Structured Seminar: Open Science in Statistics & Machine Learning</li>
 </ul>
 
 __2021/2022__
 <ul>
-<li>Advanced Statistical Modeling (entire course)</li>
-<li>Statistical Reasoning and Inference 1 (exercise sessions)</li>
-<li>Statistical Reasoning and Inference 2 (exercise sessions)</li>
-<li>Regression for Correlated Data (exercise sessions)</li>
-<li>Structured Seminar: Statistical Modeling of Political Networks</li>
+<li>Statistical Modelling (exercise sessions)</li>
+<li>Statistical Inference (exercise sessions)</li>
+<li>Linear Models (exercise sessions)</li>
 </ul>
 
 __2020/2021__
 <ul>
-<li>Advanced Statistical Modeling (entire course)</li>
-<li>Analysis of Longitudinal Data (exercise sessions)</li>
-<li>Statistical Reasoning and Inference 1 (exercise sessions)</li>
-<li>Statistical Reasoning and Inference 2 (exercise sessions)</li>
-<li>Structured Seminar: Statistical Analysis of Social Networks</li>
+<li>Introduction to Statistics for Social Sciences (exercise sessions)</li>
+<li>Generalized Linear Models (exercise sessions)</li>
+<li>Linear Models (exercise sessions)</li>
 </ul>
 
-__2019/2020__
-<ul>
-<li>Advanced Statistical Modeling (entire course)</li>
-<li>Analysis of Longitudinal Data (exercise sessions)</li>
-<li>Statistical Reasoning and Inference 2 (exercise sessions)</li>
-<li>Structured Seminar: Complex Networks</li>
-</ul>
 
-Honors and Awards
----------------
-
-__"Corona Special Award: Impact of the pandemic on the economy and society - 2022__<br/>
-Awarded by the Federal Statistical Office of Germany (DESTATIS) for outstanding work examining empirical issues with intensive use of data related to the COVID-19 pandemic. Awarded for the papers "On assessing excess mortality in Germany during the COVID-19 pandemic" and "An update on excess mortality in the second year of the COVID-19 pandemic in Germany". <br/>
-
-__DAGSTAT Best Poster Award - 2022__<br/>
-Awarded for the poster "Modelling large and dynamically growing bipartite networks - A case study in patent data" presented at the DAGSTAT conference, March 28-Apr 1, 2022, Hamburg, Germany
-<br/>
-
-__"Giuseppe Parenti" Prize, Best Graduate - 2016__<br/>
-Awarded by the alumni association of the Faculty of Economics at the University of Florence (“Associazione Villa Favard”) on the basis of overall GPA among all graduates of the faculty of Economics, Management and Statistics of the class of 2015 (1000+ students).<br/>
-
-__Productivity and merit scholarship - 2013, 2014, 2015__<br/>
-Scholarship awarded on the basis of academic merit and productivity by the University of Florence.
 
 
 
