@@ -13,7 +13,7 @@ author_profile: true
 
 Hello there! 
 
-My name is Giacomo De Nicola, I am a PhD candidate at the Institute of Statistics at the University of Munich. I hold a position at Göran Kauermann's chair of applied statistics in social sciences, economics and business, where I both research and teach statistics. <br>
+My name is Martje Rave, I am a PhD candidate at the Institute of Statistics at the University of Munich. I hold a position at Göran Kauermann's chair of applied statistics in social sciences, economics and business, where I both research and teach statistics. <br>
 
 My research interests include exploratory and predictive analysis, primarily in areal data analysis. The application of which is currently COVID-19.  We have been able to help people's understanding of the pandemic with weekly reports on the pandemic. For example, I have been able to help the LGL (The health department of the Bavarian state) in planning ICU occupancy in Bavaria. More recently, we have been able to use some clever statistics to impute missing information on incoming ICU patients and thereby improve the understanding of the severity of the disease. <br>
 We are extending these methods to learn more about teh pandemic, e.g. the ICU length of stay over time. The information we impute has previously not been available to the public. <br>
