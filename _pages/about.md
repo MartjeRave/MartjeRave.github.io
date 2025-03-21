@@ -19,4 +19,4 @@ My research interests include exploratory and predictive analysis, primarily in 
 We are extending these methods to learn more about teh pandemic, e.g. the ICU length of stay over time. The information we impute has previously not been available to the public. <br>
 I also teach regression methodology at Bachelor's as well as Master's level, primarily using R. Further, I explore Open Science and Areal Data Analysis in seminars with my students.<br>
 
-If you want to get in touch, you can contact me on [Twitter](https://twitter.com/MartjeRave) or by [email](mailto:martje.rave@stat.uni-muenchen.de). 
+If you want to get in touch, you can contact me via [email](mailto:martje.rave@stat.uni-muenchen.de) or on [LinkedIn](https://www.linkedin.com/in/martje-rave-822b5789/). 
