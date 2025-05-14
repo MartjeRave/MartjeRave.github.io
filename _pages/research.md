@@ -14,7 +14,7 @@ author_profile: true
 Publications
 ---------------
 
-You can find my up to date publications on my [Google Scholar](https://scholar.google.com/citations?user=Y-aNHUEAAAAJ&hl=en) and in my <a href="/assets/pdf/" target="_blank">full CV</a>.
+You can find my up to date publications on my [Google Scholar](https://scholar.google.com/citations?user=Y-aNHUEAAAAJ&hl=en) and in my my full CV <a href="/assets/pdf/CV_Martje_Rave.pdf" target="_blank">here</a>.
 
 Current Research Interests
 ---------------
