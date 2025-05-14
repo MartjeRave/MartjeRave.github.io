@@ -40,6 +40,22 @@ Bernstorff Gymnasium Satrup, Mittelangeln, Germany
 
 Teaching
 ---------------
+__2024/2025__
+<ul>
+<li>Introduction to Bayesian Modelling (lecturer & exercise sessions)</li>
+<li>Generalized Linear Models (exercise sessions)</li>
+<li>Advanced Bayesian Modelling (exercise sessions)</li>
+</ul>
+
+__2023/2024__
+<ul>
+<li>Linear Models (exercise sessions)</li>
+<li>Structured Seminar: Statistical analysis of areal data, spatial point processes</li>
+<li>Wahrscheinlichkeitstheoretische Grundlagen (exercise sessions)</li>
+<li>Spatial Statistics (exercise sessions)</li>
+<li>Introduction to Bayesian Modelling (exercise sessions)</li>
+</ul>
+
 __2022/2023__
 <ul>
 <li>Statistical Modelling (exercise sessions)</li>
