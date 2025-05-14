@@ -11,12 +11,14 @@ classes: wide
 author_profile: true  
 ---
 
-Hello there! 
+Hello and welcome!
 
-My name is Martje Rave, I am a PhD candidate at the Institute of Statistics at the University of Munich. I hold a position at Göran Kauermann's chair of applied statistics in social sciences, economics and business, where I both research and teach statistics. <br>
+My name is Martje Rave, and I am a PhD candidate at the Institute of Statistics at LMU Munich. I work at the Chair of Applied Statistics in the Social Sciences, Economics, and Business, led by Prof. Dr. Göran Kauermann, where I am involved in both research and teaching.<br>
 
-My research interests include exploratory and predictive analysis, primarily in areal data analysis. The application of which is currently COVID-19.  We have been able to help people's understanding of the pandemic with weekly reports on the pandemic. For example, I have been able to help the LGL (The health department of the Bavarian state) in planning ICU occupancy in Bavaria. More recently, we have been able to use some clever statistics to impute missing information on incoming ICU patients and thereby improve the understanding of the severity of the disease. <br>
-We are extending these methods to learn more about teh pandemic, e.g. the ICU length of stay over time. The information we impute has previously not been available to the public. <br>
-I also teach regression methodology at Bachelor's as well as Master's level, primarily using R. Further, I explore Open Science and Areal Data Analysis in seminars with my students.<br>
+My research focuses on exploratory and predictive modelling, with a particular interest in areal data analysis. Recently, I have been applying these methods to better understand the dynamics of the COVID-19 pandemic. Our team has contributed to public understanding through weekly pandemic reports, and I’ve supported the Bavarian Health Authority (LGL) in planning ICU occupancy across the state.<br>
+
+Lately, I have been working on using advanced statistical models to impute missing data on ICU admissions, shedding light on patient pathways that were previously not publicly observed. These insights are helping us analyse trends in ICU length of stay and disease severity over time.<br>
+
+In addition to my research, I teach regression methodology at both Bachelor’s and Master’s level, mainly using R. I also lead seminars exploring Open Science and advanced methods in areal data analysis.<br>
 
 If you want to get in touch, you can contact me via [email](mailto:martje.rave@stat.uni-muenchen.de) or on [LinkedIn](https://www.linkedin.com/in/martje-rave-822b5789/). 
