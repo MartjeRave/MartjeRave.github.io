@@ -16,8 +16,15 @@ Publications
 
 You can find my up to date publications on my [Google Scholar](https://scholar.google.com/citations?user=Y-aNHUEAAAAJ&hl=en).
 
+---------------
 Current Research Interests
-
+<ul>
+<li>Spatial Statistics</li>
+<li>Epidemiology</li>
+<li>Regression Modelling</li>
+<li>Statistical History</li>
+<li>Graphical Modelling</li>
+</ul>
 ---------------
 
 
