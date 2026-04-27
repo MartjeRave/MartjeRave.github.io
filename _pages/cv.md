@@ -22,7 +22,7 @@ __2025 - today__<br/>
 Gigthospital Sønderborg, Denmark<br/>
 Data Scientist and Statistician
 
-__2020 - 2025<br/>
+__2020 - 2025__<br/>
 LMU Munich, Germany<br/>
 PhD | Magna cum Laude
 
