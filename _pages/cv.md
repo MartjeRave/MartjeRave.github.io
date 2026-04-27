@@ -44,6 +44,7 @@ Bernstorff Gymnasium Satrup, Mittelangeln, Germany
 
 Teaching
 ---------------
+
 __2024/2025__
 <ul>
 <li>Introduction to Bayesian Modelling (lecturer & exercise sessions)</li>
