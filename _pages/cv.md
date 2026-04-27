@@ -11,7 +11,7 @@ classes: wide
 author_profile: true  
 ---
 
-View my full CV <a href="/assets/pdf/CV_Martje_Rave.pdf" target="_blank">here</a>.
+View my full CV <a href="/assets/pdf/Martje_Academic_CV.pdf" target="_blank">here</a>.
 ---------------
 
 
