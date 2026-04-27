@@ -18,13 +18,17 @@ View my full CV <a href="/assets/pdf/CV_Martje_Rave.pdf" target="_blank">here</a
 Education
 ---------------
 
-__2020 - today__<br/>
+__2025 - today__<br/>
+Gigthospital Sønderborg, Denmark<br/>
+Data Scientist and Statistician
+
+__2020 - 2025<br/>
 LMU Munich, Germany<br/>
-PhD student
+PhD | Magna cum Laude
 
 __2015 - 2020__<br/>
 University of Glasgow, Glasgow, Scotland<br/>
-MSci in Statistics
+MSci in Statistics | Cum honoribus primae classis
 
 __2012 - 2015__<br/>
 University of Southern Denmark, Denmark<br/>
